@@ -385,10 +385,10 @@ padding-bottom: 185px;
 
 }
 
-.text-list-section-four:hover .overley {
-    transform: translateY(0%);
-
+.list-section-four:hover .overley {
+    transform: translateY(0%); 
 }
+
 
 .application-name-application-category {
     padding: 32px 16px;
